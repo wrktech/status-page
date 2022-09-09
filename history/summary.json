@@ -4,17 +4,17 @@
     "url": "https://account.wrk.com/health",
     "icon": "https://favicons.githubusercontent.com/account.wrk.com",
     "slug": "account",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.55%",
-    "uptimeDay": "98.40%",
+    "uptimeDay": "98.39%",
     "uptimeWeek": "99.19%",
-    "uptimeMonth": "97.85%",
+    "uptimeMonth": "97.87%",
     "uptimeYear": "99.55%",
-    "time": 369,
-    "timeDay": 1008,
-    "timeWeek": 672,
-    "timeMonth": 465,
-    "timeYear": 369,
+    "time": 370,
+    "timeDay": 1157,
+    "timeWeek": 730,
+    "timeMonth": 476,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2022-09-09": 23,
       "2022-09-07": 9,
@@ -41,7 +41,7 @@
       "2022-08-01": 116,
       "2022-07-30": 23,
       "2022-07-29": 209,
-      "2022-07-28": 58
+      "2022-07-28": 44
     }
   }
 ]
