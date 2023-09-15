@@ -4,18 +4,19 @@
     "url": "https://account.wrk.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/account.wrk.com.ico",
     "slug": "account",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "94.72%",
-    "uptimeMonth": "96.06%",
-    "uptimeYear": "99.38%",
+    "status": "degraded",
+    "uptime": "99.67%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "94.76%",
+    "uptimeMonth": "96.08%",
+    "uptimeYear": "99.41%",
     "time": 286,
-    "timeDay": 203,
-    "timeWeek": 220,
+    "timeDay": 179,
+    "timeWeek": 216,
     "timeMonth": 228,
     "timeYear": 238,
     "dailyMinutesDown": {
+      "2023-09-15": 0,
       "2023-09-14": 19,
       "2023-09-13": 18,
       "2023-09-12": 19,
@@ -88,8 +89,7 @@
       "2023-06-27": 51,
       "2023-06-24": 27,
       "2023-06-23": 18,
-      "2023-06-22": 22,
-      "2023-06-21": 140
+      "2023-06-22": 22
     }
   }
 ]
