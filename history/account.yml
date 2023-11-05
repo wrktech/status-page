@@ -1,7 +1,7 @@
 url: https://account.wrk.com/health
-status: up
+status: degraded
 code: 200
-responseTime: 163
-lastUpdated: 2023-11-04T23:02:37.294Z
+responseTime: 316
+lastUpdated: 2023-11-05T07:54:17.677Z
 startTime: 2021-11-18T17:16:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
