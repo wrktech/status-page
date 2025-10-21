@@ -1,16 +1,16 @@
 [
   {
-    "name": "Account",
+    "name": "Front-end Interface",
     "url": "https://account.wrk.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/account.wrk.com.ico",
-    "slug": "account",
+    "slug": "front-end-interface",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
+    "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -18,10 +18,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Jobcenter",
+    "name": "Back-end Systems",
     "url": "https://jc.wrk.com/healthz/",
     "icon": "https://icons.duckduckgo.com/ip3/jc.wrk.com.ico",
-    "slug": "jobcenter",
+    "slug": "back-end-systems",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
