@@ -7,10 +7,6 @@ sites:
     url: https://account.wrk.com/health
     __dangerous__body_down: "Down"
     __dangerous__body_degraded: "Degraded"
-  - name: Back-end Systems
-    url: https://jc.wrk.com/healthz/
-    __dangerous__body_down: "Down"
-    __dangerous__body_degraded: "Degraded"
 
 status-website:
   cname: status.wrk.com
