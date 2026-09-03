@@ -32,6 +32,8 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
+      - name: Pull latest changes
+        run: git pull origin master
       - name: Update template
         uses: upptime/uptime-monitor@v1.42.7
         with:
